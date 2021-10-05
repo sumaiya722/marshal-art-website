@@ -1,0 +1,35 @@
+.contact{
+    display: flex;
+    text-align: center;
+    background-color: rgba(119, 136, 153, 0.575);
+}
+.contact-head{
+    margin-right: 450px;
+    font-size: large;
+    margin-left: 250px;
+}
+.email{
+    width: 500px;
+    height: 30px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+.passward{
+    width: 500px;
+    height: 30px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+.address{
+    width: 500px;
+    height: 30px;
+    padding-left: 10px;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(165, 42, 42, 0.603),rgb(128, 0, 128));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}

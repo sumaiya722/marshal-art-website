@@ -1,0 +1,21 @@
+.service-product{
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 50px;
+    border-radius: 10px;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray */
+    background-color: white;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5% ;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray
+}
+.service-product img{
+    height: 200px;
+    width: 200px;
+}

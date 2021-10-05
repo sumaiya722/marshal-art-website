@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<h1> Educational Website</h1>
+live link:'https://objective-benz-d110e9.netlify.app'
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
